@@ -5,20 +5,7 @@
 🔭 I love working on visualization and real-world optimization projects.  
 🌱 Constantly learning and improving my craft!
 
----
-⚽ **Fun Fact**  
 
-<table>
-<tr>
-<td>
-When I’m not coding, you’ll probably find me on the football field — I’m as passionate about football as I am about software engineering. Teamwork, strategy, and persistence drive me both in code and in the game.
-</td>
-<td>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpmbXg3eXJxYXl4YW92aG0wdm14d29xajRveTZvbWtqM2ZwNTNndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BmzqC8YEtarJK/giphy.gif" width="150" style="border-radius: 10px;"/>
-</td>
-</tr>
-</table>
----
 ## 🧰 Languages and Tools
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
