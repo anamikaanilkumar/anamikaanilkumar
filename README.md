@@ -6,6 +6,10 @@
 🌱 Constantly learning and improving my craft!
 
 ---
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpmbXg3eXJxYXl4YW92aG0wdm14d29xajRveTZvbWtqM2ZwNTNndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BmzqC8YEtarJK/giphy.gif" alt="Coding GIF" width="300"/>
+</p>
+---
 
 ## 🧰 Languages and Tools
 
