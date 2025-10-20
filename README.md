@@ -6,9 +6,12 @@
 🌱 Constantly learning and improving my craft!
 
 ---
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpmbXg3eXJxYXl4YW92aG0wdm14d29xajRveTZvbWtqM2ZwNTNndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BmzqC8YEtarJK/giphy.gif" alt="Coding GIF" width="300"/>
-</p>
+<div style="display: flex; align-items: center;">
+  <p style="flex: 1; margin-right: 10px;">
+    When I’m not coding, you’ll probably find me on the football field — I’m as passionate about football as I am about software engineering. Teamwork, strategy, and persistence drive me both in code and in the game.
+  </p>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpmbXg3eXJxYXl4YW92aG0wdm14d29xajRveTZvbWtqM2ZwNTNndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BmzqC8YEtarJK/giphy.gif" alt="Coding GIF" width="150" style="border-radius: 10px;"/>
+</div>
 ---
 
 ## 🧰 Languages and Tools
